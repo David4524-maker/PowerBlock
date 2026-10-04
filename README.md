@@ -79,6 +79,14 @@ a.download = 'icon128.png';
 a.click();
 ```
 
+## Otras alternativas
+
+· uBlock Origin
+
+· AdBlock
+
+· AdGuard
+
 ## Icono
 
 <img width="189" height="191" alt="Captura de pantalla 2026-10-04 152808" src="https://github.com/user-attachments/assets/41a82f56-6b7d-44a3-b32f-eb5ee4360e8c" />
