@@ -22,6 +22,7 @@ PowerBlock combina **bloqueo a nivel de red** con **filtrado cosmético** en tie
 -  **Filtros personalizados** con sintaxis Adblock (`||dominio^`, `/ruta/`, etc.).
 -  **Ultra ligero** — sin frameworks, sin dependencias externas.
 -  **Privacidad total** — todo el procesamiento es local, no envía datos a ningún servidor.
+-  **3 idiomas** — Detectara el idioma del navegador gracias a `_locales` (ES, EN y PT)
 
 ---
 
