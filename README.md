@@ -37,7 +37,7 @@ PowerBlock combina **bloqueo a nivel de red** con **filtrado cosmético** en tie
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/powerblock.git
+   git clone https://github.com/david4524-maker/powerblock.git
    cd powerblock
    ```
    ##  Añadir un icono (opcional)
