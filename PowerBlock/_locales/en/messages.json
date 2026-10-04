@@ -1,0 +1,43 @@
+{
+  "extName": {
+    "message": "PowerBlock",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Powerful ad blocker for Chromium-based browsers.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "PowerBlock"
+  },
+  "blockedCount": {
+    "message": "Ads blocked"
+  },
+  "resetButton": {
+    "message": "Reset"
+  },
+  "customFiltersTitle": {
+    "message": "Custom filters"
+  },
+  "customFilterPlaceholder": {
+    "message": "E.g.: ||ads.example.com^"
+  },
+  "addFilterButton": {
+    "message": "Add"
+  },
+  "noFilters": {
+    "message": "No custom filters"
+  },
+  "deleteFilter": {
+    "message": "Delete"
+  },
+  "statusLabel": {
+    "message": "Status:"
+  },
+  "statusActive": {
+    "message": "Active"
+  },
+  "statusDisabled": {
+    "message": "Disabled"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "extName": {
+    "message": "PowerBlock",
+    "description": "Nombre de la extensión"
+  },
+  "extDescription": {
+    "message": "Bloqueador de anuncios potente para navegadores Chromium.",
+    "description": "Descripción de la extensión"
+  },
+  "actionTitle": {
+    "message": "PowerBlock"
+  },
+  "blockedCount": {
+    "message": "Anuncios bloqueados"
+  },
+  "resetButton": {
+    "message": "Reset"
+  },
+  "customFiltersTitle": {
+    "message": "Filtros personalizados"
+  },
+  "customFilterPlaceholder": {
+    "message": "Ej: ||ads.example.com^"
+  },
+  "addFilterButton": {
+    "message": "Añadir"
+  },
+  "noFilters": {
+    "message": "Sin filtros personalizados"
+  },
+  "deleteFilter": {
+    "message": "Eliminar"
+  },
+  "statusLabel": {
+    "message": "Estado:"
+  },
+  "statusActive": {
+    "message": "Activo"
+  },
+  "statusDisabled": {
+    "message": "Desactivado"
+  }
+}

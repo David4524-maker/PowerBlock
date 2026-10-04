@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header>
+    <h1>🛡️ PowerBlock</h1>
+    <label class="switch" title="On/Off">
+      <input type="checkbox" id="toggle" />
+      <span class="slider"></span>
+    </label>
+  </header>
+
+  <section class="stats">
+    <div class="stat">
+      <span class="number" id="blocked">0</span>
+      <span class="label" data-i18n="blockedCount">Anuncios bloqueados</span>
+    </div>
+    <button id="reset" class="ghost" data-i18n="resetButton">Reset</button>
+  </section>
+
+  <section class="filters">
+    <h2 data-i18n="customFiltersTitle">Filtros personalizados</h2>
+    <div class="row">
+      <input type="text" id="newFilter" data-i18n-placeholder="customFilterPlaceholder" placeholder="Ej: ||ads.example.com^" />
+      <button id="addFilter" data-i18n="addFilterButton">Añadir</button>
+    </div>
+    <ul id="filterList"></ul>
+  </section>
+
+  <footer>
+    <p><span data-i18n="statusLabel">Estado:</span> <strong id="status" data-i18n="statusActive">Activo</strong></p>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
